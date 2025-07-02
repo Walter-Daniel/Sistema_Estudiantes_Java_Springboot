@@ -1,4 +1,4 @@
-package purple.school.controller.model;
+package purple.school.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
